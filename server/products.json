@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Urban Runner Pro",
+    "category": "Shoes",
+    "price": 129.99,
+    "tags": ["Sale", "Running"],
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff"
+  },
+  {
+    "id": 2,
+    "name": "Trail Blazer XT",
+    "category": "Shoes",
+    "price": 149.99,
+    "tags": ["Running"],
+    "image": "https://images.unsplash.com/photo-1584735175315-9d5df23860e6"
+  },
+  {
+  "id": 3,
+  "name": "Smart Zenith Watch",
+  "category": "Electronics",
+  "price": 299.99,
+  "tags": ["Premium"],
+  "image": "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1"
+},
+{
+  "id": 4,
+  "name": "FitPulse Smart Band",
+  "category": "Electronics",
+  "price": 99.99,
+  "tags": ["Fitness"],
+  "image" : "https://images.unsplash.com/photo-1523275335684-37898b6baf30"
+},
+{
+  "id": 5,
+  "name": "TrailFlex Backpack",
+  "category": "Accessories",
+  "price": 69.99,
+  "tags": ["Outdoor"],
+  "image" : "https://images.unsplash.com/photo-1622560480654-d96214fdc887"
+}
+]

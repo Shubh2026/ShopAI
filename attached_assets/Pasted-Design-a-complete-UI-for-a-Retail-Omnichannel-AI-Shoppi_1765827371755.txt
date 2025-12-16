@@ -1,0 +1,131 @@
+Design a complete UI for a Retail Omnichannel AI Shopping Assistant MVP.
+
+The design should follow a clean, modern e-commerce style similar to Amazon, Myntra, and Flipkart. Use rounded cards, soft shadows, clean typography, and a warm color palette with accents of blue and purple.
+
+Create the following screens:
+
+-----------------------------------------------------------
+1. Landing Screen (Home)
+-----------------------------------------------------------
+- Title: "AI Shopping Assistant"
+- Subtitle: "Personalized recommendations. Smart offers. Seamless shopping."
+- CTA Buttons:
+  • "Start Chat"
+  • "Browse Products"
+- Small illustrations: AI chatbot, shopping icons, product cards.
+
+-----------------------------------------------------------
+2. AI Chat Assistant Screen
+-----------------------------------------------------------
+- Chat interface similar to WhatsApp / Messenger.
+- Left side: User messages.
+- Right side: AI assistant messages.
+- Input box at bottom with:
+  • Text input
+  • Mic icon (voice)
+  • Image upload icon (visual search)
+- AI response cards that show:
+  • Product recommendations
+  • Offers available
+  • Suggested bundles
+- Show assistant personality: friendly, smart, helpful.
+
+-----------------------------------------------------------
+3. Product Recommendations Section
+-----------------------------------------------------------
+- Horizontal product carousel.
+- Each product card includes:
+  • Product image
+  • Name
+  • Price
+  • Rating
+  • Style category (casual, sports, formal, premium)
+  • “Add to Cart” button
+- Add labels like:
+  • "Top Pick"
+  • "Best for You"
+  • "Trending"
+  • "In Stock"
+
+-----------------------------------------------------------
+4. Product List Screen (Browse Products)
+-----------------------------------------------------------
+- Grid layout of products.
+- Filters at top:
+  • Category (Shoes, Clothing, Accessories, Electronics, Beauty)
+  • Price Range
+  • Style
+  • Popularity
+- Sorting options:
+  • Price Low → High
+  • Best Sellers
+  • Recommended for You
+
+-----------------------------------------------------------
+5. Product Details Popup
+-----------------------------------------------------------
+- Larger product image.
+- Name, price, category, style.
+- Offer tags: "10% Off", "Free Delivery", "5% Loyalty Bonus"
+- Buttons:
+  • "Buy Now"
+  • "Add to Cart"
+  • "More Like This"
+- Show inventory availability (“In Stock: 34 units”).
+
+-----------------------------------------------------------
+6. Offers & Loyalty Screen
+-----------------------------------------------------------
+- Top banner: "Exclusive Offers for You"
+- Offer cards:
+  • "10% off Sneakers"
+  • "Free Delivery above ₹3000"
+  • "5% Loyalty Bonus"
+- Loyalty section:
+  • Show user’s loyalty points
+  • Progress bar for next reward
+
+-----------------------------------------------------------
+7. Order Tracking Screen
+-----------------------------------------------------------
+- Title: "Track Your Order"
+- Tracking steps:
+  • Order Placed
+  • Packed
+  • Shipped
+  • Out for Delivery
+  • Delivered
+- Show timeline animation.
+- Show product preview + expected delivery date.
+
+-----------------------------------------------------------
+8. Dashboard for Admin (Optional)
+-----------------------------------------------------------
+- Simple analytics:
+  • Total users
+  • Total chats
+  • Top products
+  • Conversion rate
+  • Offers used most
+
+-----------------------------------------------------------
+STYLE & BRANDING
+-----------------------------------------------------------
+Typography:
+- Headings: Inter / Poppins bold
+- Content: Inter / SF Pro regular
+
+Colors:
+- Primary: #6C63FF (purple)
+- Secondary: #4A55A2 (blue)
+- Background: soft off-white
+- Accent for offers: #FF5F5F
+
+Components:
+- Rounded cards
+- Soft shadows
+- Smooth transitions
+- Minimalistic icons
+
+Output:
+Generate full UI designs with clean layout, consistent spacing, and responsive structure suitable for web and mobile MVP.
