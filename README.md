@@ -1,4 +1,4 @@
-# 🛍️ Retail AI Shopping Assistant
+# 🛍️ Retail AI Shopping Assistant(B2C Agent)
 
 An AI-powered retail assistant embedded directly into an e-commerce interface.  
 The system enables conversational product discovery, personalized recommendations, and order tracking using a combination of LLM-based intent understanding, real product data, and deterministic system logic.
